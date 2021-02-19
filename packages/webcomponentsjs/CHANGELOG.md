@@ -8,6 +8,10 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ## [Unreleased] -->
 
+## [2.5.1] - 2021-02-18
+
+- Maintenance release (no user-facing changes)
+
 ## [2.5.0] - 2020-10-21
 
 - Polyfill `Element#matches`.
